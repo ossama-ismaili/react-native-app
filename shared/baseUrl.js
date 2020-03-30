@@ -1,0 +1,1 @@
+export const baseUrl="https://ossama-ismaili.github.io/json-server/";
